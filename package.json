@@ -1,0 +1,18 @@
+{
+  "name": "namste-react",
+  "version": "1.0.0",
+  "description": "This is React App by Rohit Chhipa",
+  "keywords": [
+    "react"
+  ],
+  "license": "ISC",
+  "author": "Rohit Chhipa",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
